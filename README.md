@@ -6,3 +6,5 @@ The WRF model had to support both, classification as well as regression and used
 
 In the second part, I had to evaluate my implementation, and compare it with RandomForestClassifier and RandomForestRegressor.
 For classification I used the Fashion MNIST dataset and For regression I used the California housing dataset.
+
+Score: 100
